@@ -1,0 +1,11 @@
+
+s
+java:S1192&"VDefine a constant instead of duplicating this literal "Este campo esta vacio" 3 times.(Õßûü8¾†ï¶È0
+f
+java:S11921"IDefine a constant instead of duplicating this literal "registro" 3 times.(ÊžºÖ8¿†ï¶È0
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¶ý«8À†ï¶È0
+r	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëž¾Ôýÿÿÿÿ8Ôáï¶È0
+r	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëž¾Ôýÿÿÿÿ8Õáï¶È0
+w	java:S116"VRename this field "contraseÃ±a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÙÞöûÿÿÿÿ8î†ï¶È0
+E
+java:S1172G"(Remove this unused method parameter "v".(øÐÿ×8Ã£ï¶È0
